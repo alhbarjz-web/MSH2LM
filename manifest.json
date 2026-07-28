@@ -1,0 +1,13 @@
+{
+  "name": "MSH2LM",
+  "short_name": "MSH2LM",
+  "description": "أدوات بث TikTok المجانية من مشعل",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080E10",
+  "theme_color": "#E02519",
+  "icons": [
+    { "src": "/msh2lm-logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/msh2lm-logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
